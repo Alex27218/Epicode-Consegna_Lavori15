@@ -12,9 +12,9 @@ body hr {
     display: none;
 } 
 
-@media screen and (min-width:350) {
+@media screen and (min-width:350px) {
     html {
-        font-size: 50%;
+        font-size: 60%;
     }
     body {
         line-height: 1.6;
